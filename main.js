@@ -35,3 +35,16 @@ let hobby = "coding";
 let time = "10:30 12:30";
 
 let teacher = "solimanKhil";
+
+
+
+console.log(fName);
+console.log(lName);
+console.log(age);
+console.log(countiry);
+console.log(student);
+console.log(grade);
+console.log(fatherName);
+console.log(id);
+console.log(present);
+console.log(gender);
